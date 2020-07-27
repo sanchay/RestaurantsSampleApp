@@ -1,4 +1,4 @@
-# RestaurantsSampleApp - Restaurant Viewer using Yelp API
+# RestaurantsApp - Restaurant Viewer using Yelp API
 This app consumes APIs provided by Yelp and displays restaurant information.
 
 ## Target Devices
