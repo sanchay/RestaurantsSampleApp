@@ -53,7 +53,7 @@ extension DetailViewController {
     }
     
     private func configureActivityIndicator() {
-        activityIndicator = UIActivityIndicatorView(style: .whiteLarge)
+        activityIndicator = UIActivityIndicatorView(style: UIActivityIndicatorView.Style.large)
         activityIndicator.color = .black
         activityIndicator.hidesWhenStopped = true
         activityIndicator.startAnimating()
